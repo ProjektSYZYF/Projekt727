@@ -1,5 +1,5 @@
 # Projekt PKNSLOW
-PKNSLOW to gra typu point-and-click stworzona w silniku Godot, inspirowana grami survival horror oraz mechaniką monitorowania pomieszczeń za pomocą kamer.
+PKNSLOW to gra typu point-and-click stworzona w PenguinMod, inspirowana grami survival horror oraz mechaniką monitorowania pomieszczeń za pomocą kamer.
 # Główne założenia
 Celem gracza jest przetrwanie jednej nocy trwającej 7 minut, co w świecie gry odpowiada 6 godzinom. W trakcie rozgrywki gracz musi odpierać ataki animatroników, obserwować ich zachowanie oraz odpowiednio reagować na pojawiające się zagrożenia.
 Rozgrywka podzielona jest na 12 etapów, z których każdy reprezentuje pół godziny w świecie gry i trwa około 35 sekund.
