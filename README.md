@@ -38,7 +38,23 @@ Po jego zauważeniu należy kliknąć odpowiednie miejsce na kamerze. Jeśli gra
 Gracz jak go wybierze, pobiera bilet i musi go oddać o danej godzinie.
 ## Mimic - Hard
 Mimic mimikuje dzwięki innych przeciwników.
-
+## X - Easy
+Pojawia się w wentylacji. Jeśli usłyszysz trzy puknięcia z rzędu, musisz zamknąć drzwi, aby uniknąć ataku.
+## Bonnet - Medium
+Losowo pojawia się w biurze, jeśli korzystasz z kamer. Aby uniknąć śmierci, musisz kliknąć jej nos, zanim będzie za późno.
+## X2 - Hard
+Po usłyszeniu śmiechu X2 pojawia się na losowej kamerze. Musisz go odnaleźć i użyć Controlled Shock (klawisz E), aby go wyeliminować. Jeśli tego nie zrobisz, będzie nieustannie zużywał twoją energię, aż w końcu doprowadzi do jej wyczerpania.
+## Mr.Hippo - Easy
+Nieustannie mówi w twoim biurze, utrudniając nasłuchiwanie dźwięków i rozpoznawanie sygnałów ostrzegawczych.
+## Lil M' - Easy
+Musisz kliknąć we właściwym miejscu w odpowiednim momencie, aby uniknąć ataku Banana i zapobiec utracie 5% energii.
+## Lil T' - Hard
+Wprowadza mechanikę zbierania monet. Musisz wyszukiwać i zbierać monety za pomocą kamer, aby spełniać wymagane limity.
+* Quota godzinowa: Musisz zebrać co najmniej 20 monet w ciągu każdej godziny w grze. Niespełnienie limitu skutkuje śmiercią.
+* Quota końcowa: Do godziny 6:00 AM musisz zgromadzić łącznie 100 monet. Jeśli nie osiągniesz tego wyniku, również zginiesz.
+## Lil R' - Hard
+Gdy pojawi się w twoim biurze, musisz wpisać „LOL”, aby uniknąć kary. Jeśli tego nie zrobisz, zostaniesz cofnięty o godzinę w grze, a twoja energia zmniejszy się o 10%.
+Jeżeli jednak pojawi się bez Propeller Hata, zasady ulegają zmianie — zamiast wpisywać „LOL”, musisz założyć maskę, aby uniknąć śmierci.
 
 # Cel rozgrywki
 Głównym celem PKNSLOW jest przetrwanie całej nocy.
