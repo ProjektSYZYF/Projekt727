@@ -13,7 +13,7 @@ Gracz musi więc zdecydować, czy wybrać łatwiejszego przeciwnika i bezpieczni
 * Hard - najbardziej wymagający przeciwnicy, posiadający złożone mechaniki i stanowiący największe zagrożenie.
 Wraz z postępem nocy dostępni są przeciwnicy z coraz wyższych poziomów trudności. Gracz rozpoczyna od Easy, następnie przechodzi do Medium, a pod koniec nocy mierzy się z przeciwnikami Hard.
 # Animatroniki
-W grze planowanych jest około 20–25 unikalnych animatroników. Każdy z nich posiada własną mechanikę działania, wymagającą od gracza innego sposobu reagowania.
+W grze planowanych jest 18 unikalnych animatroników. Każdy z nich posiada własną mechanikę działania, wymagającą od gracza innego sposobu reagowania.
 ## Tymek - Easy
 Tymek powoli przemieszcza się w kierunku biura gracza. Jego pozycję można śledzić za pomocą kamer. Gracz musi obserwować jego trasę i w odpowiednim momencie zamknąć właściwe drzwi, aby uniemożliwić mu wejście.
 ## Michał - Hard
